@@ -46,3 +46,6 @@ I am da shine man, from atlanta <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stepansirotin&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stepansirotin&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C)](https://git.io/streak-stats)
+
