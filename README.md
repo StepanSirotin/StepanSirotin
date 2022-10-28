@@ -51,7 +51,7 @@ I am da shine man, from atlanta <img src="https://media.giphy.com/media/WUlplcMp
 
 <div id="heythere" align="center">
   <h1>
- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Всем+Приветик" width="600px"/>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Салам" width="600px"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
