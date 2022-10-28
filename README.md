@@ -48,3 +48,15 @@ I am da shine man, from atlanta <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stepansirotin&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepansirotin)](https://github.com/stepansirotin/github-readme-stats)
+
+<div id="heythere" align="center">
+  <h1>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Всем+Приветик" width="600px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+### 🏆Достижения GITHUB:
+[![trophy](https://github-profile-trophy.vercel.app/?username=stepansirotin)](https://github.com/stepansirotin/github-profile-trophy)
+### 📈График Активности:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stepansirotin)](https://github.com/stepansirotin/github-readme-activity-graph)
